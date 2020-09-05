@@ -1,0 +1,16 @@
+---
+title: Post 1
+author: Build ML
+date: '2020-09-05'
+slug: post-1
+categories: []
+tags: []
+---
+
+This is my first post.
+
+Look at some R code:
+
+```{r eval = FALSE}
+lm(y ~ x, data = train)
+```
