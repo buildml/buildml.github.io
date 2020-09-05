@@ -15,9 +15,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "GitHub"
     url = "https://github.com/buildml/buildml.github.io"
-[[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/rstudio"
 
 [params]
     description = "A website built through Hugo and blogdown."
@@ -26,7 +23,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     highlightjsVersion = "9.12.0"
     highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
     highlightjsLang = ["r", "yaml"]
-    highlightjsTheme = "github"
+    highlightjsTheme = "zenburn"
 
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
     MathJaxVersion = "2.7.5"
